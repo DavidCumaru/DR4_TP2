@@ -1,0 +1,18 @@
+Resultado para Roma:
+1. **Coliseu:**
+   - Visitantes anuais: Mais de 7,5 milhões
+   - Descrição: Um anfiteatro icônico da era romana que hospedava lutas de gladiadores e espetáculos públicos.
+
+2. **Museus do Vaticano:**
+   - Visitantes anuais: Mais de 6 milhões
+   - Descrição: Um complexo de museus que abriga obras-primas de artistas como Rafael, Leonardo da Vinci e Michelangelo, incluindo a Capela Sistina.
+
+3. **Cidade do Vaticano:**
+   - Visitantes anuais: Mais de 5 milhões
+   - Descrição: A menor cidade-estado do mundo, lar da Santa Sé e do Papa. Inclui a Basílica de São Pedro, a Praça de São Pedro e os Museus do Vaticano.
+Resultado para Atenas:
+**Ponto Turístico** | **Número de Visitantes Anuais** | **Descrição**
+---|---|---
+**Acrópole** | Mais de 5 milhões | Antiga cidadela no topo de uma colina com templos icônicos, incluindo o Partenon.
+**Museu da Acrópole** | Mais de 3 milhões | Abriga os artefatos originais dos monumentos da Acrópole, incluindo as esculturas do Partenon.
+**Praça Syntagma** | N/D | Praça central conhecida pela troca diária da guarda e pelo Parlamento Grego.
